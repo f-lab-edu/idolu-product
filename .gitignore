@@ -1,5 +1,5 @@
 HELP.md
-.env
+.env.dev
 .gradle
 build/
 !gradle/wrapper/gradle-wrapper.jar
@@ -38,4 +38,4 @@ out/
 .vscode/
 
 ### docker ###
-init-script/mysql/volumes/**/
+init-docker/mysql/volumes/**/
